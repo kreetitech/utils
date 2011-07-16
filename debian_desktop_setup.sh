@@ -12,3 +12,5 @@ aptitude install -y git
 aptitude install -y autoconf libc6-dev
 
 aptitude install -y imagemagick
+
+aptitude install -y subversion
