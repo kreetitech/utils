@@ -17,13 +17,8 @@ aptitude install -y subversion
 
 aptitude install -y emacs
 
-
-# apache, phpmyadmin
-
-aptitude install -y apache2
-aptitude install -y phpmyadmin
-
-aptitude install -y ruby
 aptitude install -y libmysqlclient-dev
 aptitude install -y libmagick-dev
 aptitude install -y libmagickcore-dev
+
+aptitude install nginx
