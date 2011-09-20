@@ -11,6 +11,8 @@ aptitude install -y git
 
 aptitude install -y autoconf libc6-dev
 
+aptitude install libfreetype6-dev xml-core
+aptitude install libjpeg-dev libpng-dev
 aptitude install -y imagemagick
 
 aptitude install -y subversion
@@ -23,3 +25,5 @@ aptitude install -y libmagickcore-dev
 
 aptitude install nginx
 aptitude install memcached
+
+aptitude install postfix
