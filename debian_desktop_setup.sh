@@ -27,3 +27,5 @@ aptitude install -y ruby
 aptitude install -y libmysqlclient-dev
 aptitude install -y libmagick-dev
 aptitude install -y libmagickcore-dev
+
+aptitude install memcached

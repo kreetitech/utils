@@ -22,3 +22,4 @@ aptitude install -y libmagick-dev
 aptitude install -y libmagickcore-dev
 
 aptitude install nginx
+aptitude install memcached
